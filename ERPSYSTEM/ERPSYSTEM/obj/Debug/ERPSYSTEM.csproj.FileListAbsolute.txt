@@ -1,0 +1,234 @@
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll.config
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.pdb
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe.config
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.rsp
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe.config
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.rsp
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.AppContext.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Collections.Immutable.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Console.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Http.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Sockets.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.ValueTuple.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe.config
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.rsp
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe.config
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.AssemblyReference.cache
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.CoreCompileInputs.cache
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.CopyComplete
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.dll
+D:\Pawan_PC\ASPDOTNETPRACTICE\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.pdb
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll.config
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.pdb
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe.config
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.rsp
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe.config
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.rsp
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.AppContext.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Collections.Immutable.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Console.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Http.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Sockets.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.ValueTuple.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe.config
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.rsp
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe.config
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.AssemblyReference.cache
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.CoreCompileInputs.cache
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.CopyComplete
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.dll
+D:\Pawan_PC\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.pdb
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll.config
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.pdb
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe.config
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.rsp
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe.config
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.rsp
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Managed.Core.targets
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.AppContext.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Collections.Immutable.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Console.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Globalization.Calendars.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Http.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Sockets.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.ValueTuple.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XmlDocument.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe.config
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.rsp
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe.config
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\important\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.AssemblyReference.cache
+D:\important\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.CoreCompileInputs.cache
+D:\important\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csproj.CopyComplete
+D:\important\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.dll
+D:\important\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.pdb
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll.config
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\ERPSYSTEM.pdb
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.exe.config
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csc.rsp
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.exe.config
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\csi.rsp
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Console.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.exe.config
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\vbc.rsp
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.dll
+C:\Users\Admin\OneDrive\Pawan\August\5 August\medicineERP\ERPSYSTEM\ERPSYSTEM\obj\Debug\ERPSYSTEM.pdb

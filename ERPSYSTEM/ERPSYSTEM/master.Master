@@ -1,0 +1,197 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="ERPSYSTEM.master" %>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html>
+<style>
+        /* Add a black background color to the top navigation */
+        .topnav {
+            background-color: #04AA6D;
+            overflow: hidden;
+        }
+        /* Style the links inside the navigation bar */
+        .topnav a {
+            float: left;
+            color: #000000;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+        /* Change the color of links on hover */
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        /* Add a color to the active/current link */
+        .topnav a.active {
+            background-color: #04AA6D;
+            color: white;
+        }
+        .auto-style{
+            color: red;
+        }
+        .auto-style1 {
+            color: #FFFFFF;
+            text-align: center;
+            background-color: #993366;
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 978px;
+            height: 49px;
+        }
+        .topnav-right {
+            float: right;
+        }
+        .auto-style3 {
+            float: right;
+            height: 45px;
+        }
+        .auto-style4 {
+            height: 52px;
+        }
+            /* ==========================================
+            FOR DEMO PURPOSE
+          ========================================== */
+        body {
+            background: #2a2e32;
+        }
+
+        .text-small {
+            font-size: 0.9rem;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+        a:hover, a:focus {
+            text-decoration: none;
+        }
+
+        .form-control {
+            background: #212529;
+            border-color: #545454;
+        }
+
+        .form-control:focus {
+            background: #212529;
+        }
+
+        footer {
+            background: #212529;
+        }
+            /* ==========================================
+            CUSTOM UTILS CLASSES
+          ========================================== */
+        body, html {
+            height: 100%;
+        }
+
+        .auto-style8 {
+        color: #FFFFFF;
+        height: 52px;
+        background-color: #CC0000;
+        }
+        </style>
+                <%--***************CDN Link Of bootstrap Start******************--%>
+
+        <head runat="server">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        </head>
+        <body>
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        </body>
+        </html>
+
+        <div class="topnav">
+            <a class="active" href="Home.aspx" style="height: 52px"><strong>Home</strong></a>
+            <a href="#" class="auto-style8"><strong>Logout</strong></a><div class="auto-style3">
+                <a href="medicine.aspx" class="auto-style4"><strong>Medicines</strong></a>
+                <a href="category.aspx" class="auto-style4"><strong>Categeories</strong></a>
+                <a href="sellers.aspx" class="auto-style4"><strong>Sellers</strong></a></div>
+
+            <br />
+            <br />
+        </div>
+        </head>
+            <h1 class="auto-style1">
+                <marquee class="auto-style2">WELCOME TO MY MEDICINE WEBSITE</marquee>
+            </h1>
+        <body>
+            <form id="form1" runat="server">
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+            <div class="d-flex flex-column h-100">
+
+                <!-- FOR DEMO PURPOSE -->
+                <section class="hero text-white py-5 flex-grow-1">
+                    <div class="container py-4">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <%--<h1 class="display-4">Bootstrap footer bottom</h1>--%>
+                                <p class="fst-italic text-muted">
+                                    <%--Using Bootstrap 5 flexbox utilities, create a footer that always sticks to the bottom of your viewport. Snippet by <a class="text-primary" href="https://bootstrapious.com/" target="_blank">Bootstrapious--%></a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+                <!-- FOOTER -->
+                <footer class="w-100 py-4 flex-shrink-0">
+                    <div class="container py-4">
+                        <div class="row gy-4 gx-5">
+                            <div class="col-lg-4 col-md-6">
+                                <h5 class="h1 text-white">Pharma ERP Software</h5>
+                                <p class="small text-muted">
+                                    Healthcare, a leading pharmaceutical manufacturing company in India, operates state-of-the-art third party pharma manufacturing facilities.
+                                </p>
+                                <p class="small text-muted mb-0">
+                                    © Copyrights. All rights reserved. <a class="text-primary" href="/~Acheveitsolution.com">AcheveIt Solutions.com</a>
+                                </p>
+                            </div>
+                            <div class="col-lg-2 col-md-6">
+                                <h5 class="text-white mb-3">Quick links</h5>
+                                <ul class="list-unstyled text-muted">
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#">Medicine-Pharma</a></li>
+                                    <li><a href="#">FAQ</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-2 col-md-6">
+                                <h5 class="text-white mb-3">Commercial Manufacturing</h5>
+                                <ul class="list-unstyled text-muted">
+                                    <li><a href="#">Ordering Process</a></li>
+                                    <li><a href="#">Plasmid Topology</a></li>
+                                    <li><a href="#">LPS</a></li>
+                                    <li><a href="#">Special Quality</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <h5 class="text-white mb-3">Newsletter</h5>
+                                <p class="small text-muted">
+                                    Resolve Your Pharma Manufacturing Business Challenges With These Unparalleled Features Of Pharma ERP Software.
+                                </p>
+                                <form action="#">
+                                    <div class="input-group mb-3">
+                                        <input aria-describedby="button-addon2" aria-label="Recipient username" class="form-control" placeholder="Subscribe to our Newsletter" type="text" />
+                                        <input class="btn btn-primary" type="submit" value="Submit"></div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </body>
+        </html>
